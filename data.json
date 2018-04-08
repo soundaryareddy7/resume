@@ -1,0 +1,51 @@
+{
+
+  "basics":{
+  "name":"sou",
+  "photo":"sou.png",
+  "email":"soundaryayellappagari@gmail.com",
+  "mobileno":5467839887,
+  "address":"SVIT college"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"B-Tech",
+    "institute":"SVIT,Anantapur",
+    "data":["2016-20","75%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Sree Chatanya",
+    "data":["2013-15","75%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Deepthi School",
+    "data":["2014","92%"]
+  }
+],
+"skills":[
+  {
+    "Sname":"Languages",
+    "Sdata":["C","C++","Java"]
+  },
+  {
+
+      "Sname":"DataBases",
+      "Sdata":["Oracle","MySql","MySqLite","PDO"]
+    },
+    {
+
+        "Sname":"Web Technologies",
+        "Sdata":["HTML","XML","CSS","PHP","JavaScript"]
+      },
+      {
+
+          "Sname":"Operating System",
+          "Sdata":["Windows","Linux","Unix"]
+        }
+]
+}
